@@ -1,6 +1,4 @@
-### Hi devs 👋
-
-Always learning...
+## Hi devs 👋👩🏻‍💻
 
 <h3>About me</h3>
 
