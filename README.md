@@ -8,8 +8,8 @@ import Desenvolvedor from "debisameque";
 
 class AboutMe extends Developer {
   name = "Debora Sameque";
-  firstarea = "web and mobile developer";
-  secondarea = "UX/UI design";
+  firstArea = "web and mobile developer";
+  secondArea = "UX/UI design";
   college = "Sistemas e Mídias Digitais (UFC)";
   work = "searching";
   hobbies = "beach, games, movies, reading, gym";
